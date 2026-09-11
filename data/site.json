@@ -1,0 +1,23 @@
+{
+  "cachebust": "454628fc76",
+  "counts": {
+    "attack_techniques_covered": 362,
+    "cves": 1096,
+    "days": 120,
+    "entities": 2340,
+    "entries": 887,
+    "regions": 12,
+    "sources": 186,
+    "stix_files": 5,
+    "stix_objects": 3049,
+    "tags": 47,
+    "updates": 210
+  },
+  "github": {
+    "full_name": "OwlsNightCatch/ctipilot",
+    "stars": 3,
+    "url": "https://github.com/OwlsNightCatch/ctipilot"
+  },
+  "latest_entry": "2026-09-11T04:37:00Z",
+  "site_url": "https://ctipilot.ch/"
+}
